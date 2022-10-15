@@ -1,0 +1,12 @@
+body {
+    background-size: cover;
+
+}
+image {
+    border: 2px solid #fff;
+    border-radius: 50%;
+    height: 190px;
+    object-fit: cover;
+    position: relative;
+    width: 190px;
+}
